@@ -1,0 +1,29 @@
+
+Rules:-
+1. always first design for mobile then go for larger screens
+2. add styling in class
+
+
+
+h-screen:- 100% view port height (i.e height of the screen)
+
+w-full:- 100% width of the screen
+
+mx-auto:- iska matlab 80% height and width lega upna parent ka; agar parent ka size ghatega to iska bi size ghatega ( use hota hai responsive karne keliya)
+
+px-4:- iska matlab padding from left and right 4 px
+
+py-3:- iska matlab padding from top and bottom 3 px
+
+agar apna man se kuch dena chahateho then uss chiz ko square bracket ke andar likho
+eg:- font-['gilroy'] or bg-[#hexcode values]
+
+hidden:- isko likh ne se content hidden hota hai
+
+lg:block :- isko likh ne se jo content hidden hua tha large screen par dikhaega
+
+mt-20:- margin-top 
+
+items-center:- to bring center
+
+tracking-tight:- letter spacing
